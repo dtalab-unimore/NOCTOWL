@@ -1,5 +1,7 @@
 # NOCTOWL
 
+<img src="images/diagram.png" width="50%" />
+
 This is the official repository for NOCTOWL :owl: (Network intrusiOn deteCTiOn With online tree-based Learning).
 NOCTOWL is a lightweight, explainable anomaly detection model based on binary decision trees.
 It enhances the base tree with leaf-node clustering, batch-wise analysis, and sampling strategies to detect anomalies and concept drift.
