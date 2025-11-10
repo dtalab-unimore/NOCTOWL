@@ -1,4 +1,4 @@
-# DMT for Panacea
+# NOCTOWL
 
 This is the official repository for NOCTOWL :owl: (Network intrusiOn deteCTiOn With online tree-based Learning).
 NOCTOWL is a lightweight, explainable anomaly detection model based on binary decision trees.
