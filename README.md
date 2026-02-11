@@ -38,3 +38,23 @@ The available options are:
 - `--min_point_per_leaf`: minimum number of samples required per leaf.
 - `--delay`: number of batches to wait before obtaining the labels.
 - `--sampling`: fraction of samples to use for tree update during training.
+
+## Citation
+
+```
+@article{DBLP:journals/access/PederzoliPCBTIG25,
+  author       = {Sara Pederzoli and
+                  Matteo Paganelli and
+                  Michele Luca Contalbo and
+                  Riccardo Benassi and
+                  Donato Tiano and
+                  Stefano Iannucci and
+                  Francesco Guerra},
+  title        = {{NOCTOWL:} Adaptive Tree-Based Model for Network Anomaly Detection
+                  Under Delayed and Sampled Label Availability},
+  journal      = {{IEEE} Access},
+  volume       = {13},
+  pages        = {197899--197911},
+  year         = {2025}
+}
+```
