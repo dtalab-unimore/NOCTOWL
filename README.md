@@ -41,6 +41,8 @@ The available options are:
 
 ## Citation
 
+If you use our work, please cite the following papers:
+
 ```
 @article{DBLP:journals/access/PederzoliPCBTIG25,
   author       = {Sara Pederzoli and
@@ -56,5 +58,20 @@ The available options are:
   volume       = {13},
   pages        = {197899--197911},
   year         = {2025}
+}
+
+@inproceedings{DBLP:conf/compsac/IannucciCGPPCA26,
+  author       = {Stefano Iannucci and
+                  Emiliano Casalicchio and
+                  Francesco Guerra and
+                  Sara Pederzoli and
+                  Matteo Paganelli and
+                  Tommaso Caiazzi and
+                  Simone Albero},
+  title        = {{PANACEA:} {A} Model-Based Framework for Self-Protecting Systems},
+  booktitle    = {{COMPSAC}},
+  pages        = {1658--1661},
+  publisher    = {{IEEE}},
+  year         = {2026}
 }
 ```
